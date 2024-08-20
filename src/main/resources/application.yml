@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: tvchannel
+
+video:
+  storage:
+    path: /opt/app/storage/
+
+
+
+
